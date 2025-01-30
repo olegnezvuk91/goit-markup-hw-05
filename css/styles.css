@@ -434,9 +434,7 @@ button {
   color: #fff;
   margin-bottom: 16px;
 }
-.footer-social-container {
-  margin-right: 80px;
-}
+
 .footer-social-list {
   display: flex;
   gap: 16px;
@@ -460,6 +458,7 @@ button {
 }
 
 .footer-wrap {
+  margin-left: 80px;
 }
 
 .footer-form-text {
