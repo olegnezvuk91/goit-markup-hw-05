@@ -484,7 +484,6 @@ button {
   padding-left: 16px;
   background-color: transparent;
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  margin-right: 24px;
   color: #ffffff;
 }
 .footer-input::placeholder {
