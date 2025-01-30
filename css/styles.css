@@ -499,7 +499,7 @@ button {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-
+  font-family: "Roboto", sans-serif;
   color: #fff;
   background-color: #4d5ae5;
   border-radius: 4px;
@@ -716,6 +716,7 @@ button {
   color: #4d5ae5;
 }
 .modal-btn {
+  font-family: "Roboto", sans-serif;
   min-width: 169px;
   height: 56px;
   font-weight: 500;
